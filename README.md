@@ -60,7 +60,7 @@ GraphQL Yoga, FastAPI, Express, Prisma
 PostgreSQL, Redis, MongoDB, DuckDB
 
 **Cloud & DevOps**: 
-Docker, Kubernetes, GitHub Actions, Jenkins, Terraform, Linux (RHEL-based environments)  
+Docker, Kubernetes, GitHub Actions, Jenkins, ArgoCD, Terraform, Linux (RHEL-based environments)  
 
 **AI & Data Tooling (Applied)**: 
 PyTorch, ONNX Runtime, TensorFlow (selective use), workflow orchestration tools  
