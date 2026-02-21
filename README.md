@@ -43,9 +43,6 @@ I care deeply about **operability, clarity, and system correctness**, especially
 - **VueCue XR**  
   Research-grade WebRTC and real-time communication platform optimized for ASL, interpreters, and visual accessibility use cases.
 
-- **Insight Engine**  
-  Data analysis and ML-assisted workflows for small, high-signal research datasets in accessibility-focused studies.
-
 ---
 
 ## 🧩 Tech Stack
