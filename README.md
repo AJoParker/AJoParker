@@ -18,7 +18,7 @@ Go middleware on Cloud Run → TypeScript Firebase functions → HuggingFace inf
 Kubernetes topology as a web app. Go backend with KuzuDB graph database, React/Vite frontend, Sigma.js/Graphology rendering. Real-time cluster introspection.  
 `Go` `React` `KuzuDB` `Kubernetes`
 
-**[VueCue XR](https://github.com/HollowCrusader)** — Accessibility research platform  
+**[VueCue XR](https://vuecue.io)** — Accessibility research platform  
 WebRTC real-time communication platform optimized for ASL, interpreters, and visual accessibility use cases. Built for Deaf/HoH research at NTID.  
 `WebRTC` `TypeScript` `LiveKit`
 
