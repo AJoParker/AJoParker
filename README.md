@@ -1,6 +1,6 @@
 # Hi, I'm Aaron Joel Parker
 ### Software Engineer · .NET / C# / Azure · Real-time and accessibility systems
-[![CKAD](https://img.shields.io/badge/CKAD-Certified-blue?logo=kubernetes)](https://ti-user-certificates.s3.amazonaws.com/e0df7fbf-a057-42af-8a1f-590912be5460/f76d4105-928d-4224-ad24-ea9b92e74fb3-aaron-parker-3dcc81e7-5c80-48ff-a45e-28911be160fe-certificate.pdf)
+[![CKAD](https://training.linuxfoundation.org/wp-content/uploads/2019/03/kubernetes-ckad-color-300x294.png)](https://ti-user-certificates.s3.amazonaws.com/e0df7fbf-a057-42af-8a1f-590912be5460/f76d4105-928d-4224-ad24-ea9b92e74fb3-aaron-parker-3dcc81e7-5c80-48ff-a45e-28911be160fe-certificate.pdf)
 
 I build production .NET systems with strong backend, real-time, and Azure foundations. Six-plus years shipping accessibility software at NTID/RIT, with end-to-end ownership from design through deployment. Currently deepening AI engineering on the Microsoft cloud.
 
