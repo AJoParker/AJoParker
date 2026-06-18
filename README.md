@@ -20,7 +20,7 @@ Surfaces market signal from news and filings without shouting or claiming certai
 Translates environmental sound into haptic and visual awareness for Deaf households. The kitchen smoke alarm becomes a pulse on the wrist and a glow on the wall, without breaking the quiet.  
 `ASP.NET Core` `Blazor` `MAUI` `ONNX Runtime` `Azure IoT Hub` `Azure Functions`
 
-**[Between Bells](https://github.com/AJoParker/between-bells)** · the Balcony *(in progress)*  
+**[Between Bells](https://github.com/AJoParker/betweenbells)** · the Balcony *(in progress)*  
 Medieval HD-2D stealth where a watchmaker slips past royal guards to reach the princess's balcony before the next bell tolls. Draw a blade and the game ends.  
 `C# 13` `.NET 10` `Silk.NET` `OpenGL 4.1` `GLSL` `ImGui`
 
