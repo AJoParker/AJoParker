@@ -10,7 +10,7 @@ I build production .NET systems with strong backend, real-time, and Azure founda
 
 **[RoomLoom](https://github.com/AJoParker/roomloom)** · the Weaver  
 Modular live-conference platform built on hexagonal architecture. Scheduling providers and media backends plug into contracts the core owns. The core never knows which calendar or video system it talks to.  
-`ASP.NET Core` `SignalR` `EF Core` `MAUI` `Azure` `Hexagonal Architecture`
+`ASP.NET Core` `SignalR` `EF Core` `Azure` `Hexagonal Architecture`
 
 **[Fulcrum](https://github.com/AJoParker/fulcrum)** · the Broker *(in progress)*  
 Surfaces market signal from news and filings without shouting or claiming certainty. Built for traders who want context, not noise.  
