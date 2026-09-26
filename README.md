@@ -31,7 +31,7 @@ Medieval HD-2D stealth where a watchmaker slips past royal guards to reach the p
 **.NET**: ASP.NET Core · Blazor · EF Core · SignalR · MAUI · ONNX Runtime  
 **Cloud**: Azure · Azure Functions · Azure IoT Hub · Azure OpenAI · Kubernetes  
 **Data**: SQL Server · PostgreSQL · TimescaleDB · Redis
-**Infrastructure**: Docker · GitHub Actions · Terraform · Biceps · ARM templates
+**Infrastructure**: Docker · GitHub Actions · Terraform · Bicep · ARM templates
 
 ---
 
